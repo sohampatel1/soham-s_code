@@ -35,16 +35,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sohampatel1/soham-s_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sohampatel1/soham-s_code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sohampatel1/soham-s_code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sohampatel1/soham-s_code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
