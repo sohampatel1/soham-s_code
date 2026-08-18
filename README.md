@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sohampatel1/soham-s_code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sohampatel1/soham-s_code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/sohampatel1/soham-s_code/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/sohampatel1/soham-s_code/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/sohampatel1/soham-s_code/tree/master/0260-single-number-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
