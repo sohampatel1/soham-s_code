@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sohampatel1/soham-s_code/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0540-single-element-in-a-sorted-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sohampatel1/soham-s_code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sohampatel1/soham-s_code/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sohampatel1/soham-s_code/tree/master/0048-rotate-image) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sohampatel1/soham-s_code/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Matrix
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sohampatel1/soham-s_code/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sohampatel1/soham-s_code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Quicksort
 |  |
 | ------- |
@@ -135,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
