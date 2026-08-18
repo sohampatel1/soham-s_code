@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sohampatel1/soham-s_code/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sohampatel1/soham-s_code/tree/master/0011-container-with-most-water) |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sohampatel1/soham-s_code/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sohampatel1/soham-s_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
 ## Quicksort
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sohampatel1/soham-s_code/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
