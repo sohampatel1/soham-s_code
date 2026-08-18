@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sohampatel1/soham-s_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sohampatel1/soham-s_code/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sohampatel1/soham-s_code/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/sohampatel1/soham-s_code/tree/master/0260-single-number-iii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohampatel1/soham-s_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/sohampatel1/soham-s_code/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sohampatel1/soham-s_code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sohampatel1/soham-s_code/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
