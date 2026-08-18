@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sohampatel1/soham-s_code/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sohampatel1/soham-s_code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sohampatel1/soham-s_code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sohampatel1/soham-s_code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sohampatel1/soham-s_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sohampatel1/soham-s_code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Quicksort
 |  |
 | ------- |
