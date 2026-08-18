@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sohampatel1/soham-s_code/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sohampatel1/soham-s_code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sohampatel1/soham-s_code/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/sohampatel1/soham-s_code/tree/master/0260-single-number-iii) |
@@ -80,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sohampatel1/soham-s_code/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
