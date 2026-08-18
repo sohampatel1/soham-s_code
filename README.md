@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sohampatel1/soham-s_code/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/sohampatel1/soham-s_code/tree/master/0007-reverse-integer) |
 ## String
 |  |
 | ------- |
