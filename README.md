@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sohampatel1/soham-s_code/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sohampatel1/soham-s_code/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/sohampatel1/soham-s_code/tree/master/0260-single-number-iii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sohampatel1/soham-s_code/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohampatel1/soham-s_code/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sohampatel1/soham-s_code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
