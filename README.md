@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sohampatel1/soham-s_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sohampatel1/soham-s_code/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0540-single-element-in-a-sorted-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sohampatel1/soham-s_code/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0540-single-element-in-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
