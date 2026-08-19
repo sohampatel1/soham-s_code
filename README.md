@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sohampatel1/soham-s_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohampatel1/soham-s_code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/sohampatel1/soham-s_code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sohampatel1/soham-s_code/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sohampatel1/soham-s_code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sohampatel1/soham-s_code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
