@@ -11,24 +11,15 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-    ListNode* b=new ListNode(0);
-    ListNode*t=head;
-    ListNode* ans=b;
-    int c=0,n;
+    ListNode* t=head;
+    int c=0;
     while(t!=NULL)
     {c++;
-    t=t->next;
+     t=t->next;
     }
-    n=c/2;
     t=head;
-    for(int i=0;i<c;i++)
-    {if(i>=n)
-    {b->next=new ListNode(t->val);
-    b=b->next;
-    }
-    t=t->next;
-    }
-    t=ans->next;
-    return t;
+    c=c/2;
+    for(int i=0;i<c;i++) t=t->next;
+    return t;   
     }
 };
