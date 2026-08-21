@@ -1,13 +1,13 @@
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-    HashSet<Integer>a=new HashSet<>();
     char[] s1=s.toCharArray();
-    for(int i:spaces)a.add(i);
     StringBuilder ans=new StringBuilder();
+    int sp=0,spl=spaces.length;
     for(int i=0;i<s.length();i++)
-    {if(a.contains(i))
+    {if(sp<spl && i==spaces[sp])
     {ans.append(" ");
     ans.append(s1[i]);
+    sp++;
     }
     else ans.append(s1[i]);
     }
