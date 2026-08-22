@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sohampatel1/soham-s_code/tree/master/0260-single-number-iii) |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sohampatel1/soham-s_code/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
 | [2109-adding-spaces-to-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2109-adding-spaces-to-a-string) |
 | [3941-password-strength](https://github.com/sohampatel1/soham-s_code/tree/master/3941-password-strength) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sohampatel1/soham-s_code/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/2679-sum-in-a-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sohampatel1/soham-s_code/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Enumeration
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/sohampatel1/soham-s_code/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
