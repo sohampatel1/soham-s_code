@@ -17,8 +17,8 @@ class Solution {
      }
      }
     }
-    String f="";
-    for(int i=0;i<numRows;i++) f+=a[i];
-    return f;
+    StringBuilder f=new StringBuilder();
+    for(int i=0;i<numRows;i++) f.append(a[i]);
+    return f.toString();
     }
 }
