@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohampatel1/soham-s_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sohampatel1/soham-s_code/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/sohampatel1/soham-s_code/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohampatel1/soham-s_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2390-removing-stars-from-a-string) |
 | [3941-password-strength](https://github.com/sohampatel1/soham-s_code/tree/master/3941-password-strength) |
