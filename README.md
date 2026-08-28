@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohampatel1/soham-s_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/sohampatel1/soham-s_code/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sohampatel1/soham-s_code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/sohampatel1/soham-s_code/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sohampatel1/soham-s_code/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sohampatel1/soham-s_code/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohampatel1/soham-s_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/sohampatel1/soham-s_code/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2390-removing-stars-from-a-string) |
 | [3941-password-strength](https://github.com/sohampatel1/soham-s_code/tree/master/3941-password-strength) |
