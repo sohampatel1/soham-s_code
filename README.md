@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sohampatel1/soham-s_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sohampatel1/soham-s_code/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/sohampatel1/soham-s_code/tree/master/2562-find-the-array-concatenation-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sohampatel1/soham-s_code/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2679-sum-in-a-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/2679-sum-in-a-matrix) |
 ## Bit Manipulation
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/sohampatel1/soham-s_code/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sohampatel1/soham-s_code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2562-find-the-array-concatenation-value](https://github.com/sohampatel1/soham-s_code/tree/master/2562-find-the-array-concatenation-value) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sohampatel1/soham-s_code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sohampatel1/soham-s_code/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/2390-removing-stars-from-a-string) |
+| [2562-find-the-array-concatenation-value](https://github.com/sohampatel1/soham-s_code/tree/master/2562-find-the-array-concatenation-value) |
 | [2679-sum-in-a-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/2679-sum-in-a-matrix) |
 | [3174-clear-digits](https://github.com/sohampatel1/soham-s_code/tree/master/3174-clear-digits) |
 ## Sorting
