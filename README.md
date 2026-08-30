@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sohampatel1/soham-s_code/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/sohampatel1/soham-s_code/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sohampatel1/soham-s_code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sohampatel1/soham-s_code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sohampatel1/soham-s_code/tree/master/0073-set-matrix-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohampatel1/soham-s_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sohampatel1/soham-s_code/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sohampatel1/soham-s_code/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/sohampatel1/soham-s_code/tree/master/0290-word-pattern) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohampatel1/soham-s_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sohampatel1/soham-s_code/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/sohampatel1/soham-s_code/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/sohampatel1/soham-s_code/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sohampatel1/soham-s_code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/0345-reverse-vowels-of-a-string) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sohampatel1/soham-s_code/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sohampatel1/soham-s_code/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sohampatel1/soham-s_code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
