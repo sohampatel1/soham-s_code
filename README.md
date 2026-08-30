@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sohampatel1/soham-s_code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sohampatel1/soham-s_code/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/sohampatel1/soham-s_code/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sohampatel1/soham-s_code/tree/master/0318-maximum-product-of-word-lengths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/sohampatel1/soham-s_code/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohampatel1/soham-s_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/sohampatel1/soham-s_code/tree/master/2000-reverse-prefix-of-word) |
