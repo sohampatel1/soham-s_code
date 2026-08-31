@@ -12,7 +12,7 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
     vector<int>a;
-    int fn=2147483647,ln=-1,sl=-1,c=-1,mn=2147483647;
+    int fn=2147483647,ln=-1,sl=-1,c=0,mn=2147483647;
     ListNode*t=head->next;
     int ans=head->val;
     c++;
