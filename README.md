@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sohampatel1/soham-s_code/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/sohampatel1/soham-s_code/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sohampatel1/soham-s_code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
