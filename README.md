@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sohampatel1/soham-s_code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sohampatel1/soham-s_code/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/sohampatel1/soham-s_code/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/sohampatel1/soham-s_code/tree/master/0070-climbing-stairs) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sohampatel1/soham-s_code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sohampatel1/soham-s_code/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -212,10 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sohampatel1/soham-s_code/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sohampatel1/soham-s_code/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
 ## Game Theory
 |  |
