@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sohampatel1/soham-s_code/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sohampatel1/soham-s_code/tree/master/0540-single-element-in-a-sorted-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/sohampatel1/soham-s_code/tree/master/0746-min-cost-climbing-stairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/sohampatel1/soham-s_code/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sohampatel1/soham-s_code/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/sohampatel1/soham-s_code/tree/master/1833-maximum-ice-cream-bars) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sohampatel1/soham-s_code/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/sohampatel1/soham-s_code/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/sohampatel1/soham-s_code/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sohampatel1/soham-s_code/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
