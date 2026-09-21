@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sohampatel1/soham-s_code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sohampatel1/soham-s_code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sohampatel1/soham-s_code/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohampatel1/soham-s_code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sohampatel1/soham-s_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sohampatel1/soham-s_code/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/sohampatel1/soham-s_code/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/sohampatel1/soham-s_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sohampatel1/soham-s_code/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/sohampatel1/soham-s_code/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sohampatel1/soham-s_code/tree/master/0318-maximum-product-of-word-lengths) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sohampatel1/soham-s_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sohampatel1/soham-s_code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
