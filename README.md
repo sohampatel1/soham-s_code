@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sohampatel1/soham-s_code/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/sohampatel1/soham-s_code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sohampatel1/soham-s_code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohampatel1/soham-s_code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sohampatel1/soham-s_code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sohampatel1/soham-s_code/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sohampatel1/soham-s_code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sohampatel1/soham-s_code/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/sohampatel1/soham-s_code/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/sohampatel1/soham-s_code/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sohampatel1/soham-s_code/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohampatel1/soham-s_code/tree/master/0345-reverse-vowels-of-a-string) |
